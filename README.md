@@ -1,2 +1,3 @@
 # uicom
-Placeholder repo for the uicom project
+
+Placeholder package. The `uicom` name is reserved for a future project.
